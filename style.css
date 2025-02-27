@@ -1,0 +1,14 @@
+body {
+    background-image: url('https://drive.google.com/file/d/1kMm7EL_GdGLaMyRqXQ1PHb8m3uixFydx/view?usp=sharing'); /* Wstaw link do swojego tła */
+    background-size: cover;
+    background-position: center;
+    font-family: 'Poppins', sans-serif; /* Zmieniamy czcionkę */
+    color: black; /* Kolor tekstu */
+    text-align: center;
+}
+
+h1 {
+    font-size: 3rem;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Efekt cienia */
+}
